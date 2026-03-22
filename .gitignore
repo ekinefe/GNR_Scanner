@@ -1,0 +1,11 @@
+# Ignore old development versions
+deep_scan-V*.py
+deep_scan-V*.sh
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Scan Logs
+Scan_Logs_*/
+*.log
