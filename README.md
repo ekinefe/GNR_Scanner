@@ -30,3 +30,6 @@ Currently, the dashboard integrates with **ClamAV** (Anti-Virus) and **RKHunter*
 * **Textual** (TUI Framework)
 * **Psutil** (Hardware metrics)
 * **Subprocess & OS** (System-level execution)
+
+---
+This project is released under the MIT License. If you use this code in your own public or commercial projects, a visible credit in your UI or documentation linking back to this repository is highly appreciated!
